@@ -22,6 +22,30 @@
       "revId": "8def9e390c5be0970fb98ac7d19464336b1ce675",
       "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a202591_dec31437",
+        "filename": "init/Kconfig",
+        "patchSetId": 1
+      },
+      "lineNbr": 965,
+      "author": {
+        "id": 1000026
+      },
+      "writtenOn": "2015-04-29T04:18:11Z",
+      "side": 0,
+      "message": "we are building EXPERT stuff in kernel",
+      "parentUuid": "5a202591_0a0ca741",
+      "range": {
+        "startLine": 965,
+        "startChar": 8,
+        "endLine": 965,
+        "endChar": 20
+      },
+      "revId": "8def9e390c5be0970fb98ac7d19464336b1ce675",
+      "serverId": "f8201d64-d729-4630-b91d-5f8be02869f0",
+      "unresolved": false
     }
   ]
 }
